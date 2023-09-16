@@ -54,13 +54,7 @@ body {
   padding: 32px;
   flex-wrap: wrap;  
 }
-/*
-.one,
-.two{
-display: flex;
-flex: 1 1 0;
-}
-*/
+
 ul{
   list-style-type: none;
 }
@@ -72,5 +66,4 @@ a{
   text-decoration: none;
   color: white;
   font-size: 24px;
-  
 }
